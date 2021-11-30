@@ -1,1 +1,1 @@
-My lab 1 solution is [here](https://www.github.com/vik12345678/LAB-1)
+My lab 2 solution is [here](https://www.github.com/js-assignments))
